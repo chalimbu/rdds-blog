@@ -1,5 +1,7 @@
 para practica operaciones con rdd en spark
 
+blog: https://chalimbu.blogspot.com/2023/11/rdd-en-spark-con-scala.html
+
 
 dataset de prueba sacado de https://www.kaggle.com/datasets/isabbaggin/transaction-fraudulent-financial-syntheticdata/
 transaction data for fraud analysis
